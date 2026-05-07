@@ -1,0 +1,6 @@
+com\simbank\models\Account.class
+com\simbank\BankApp.class
+com\simbank\models\Transaction.class
+com\simbank\services\BankService.class
+com\simbank\models\User.class
+com\simbank\utils\ValidationUtil.class
